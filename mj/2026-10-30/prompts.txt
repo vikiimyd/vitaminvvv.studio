@@ -1,0 +1,17 @@
+Midjourney V8, profile xythigu — generated 2026-10-30
+Job IDs: https://www.midjourney.com/jobs/<id>
+
+1-sticker (dc0bcab3-696d-4dbf-aada-2d77ec128de4)
+die-cut sticker sheet of pastel hand-drawn kawaii doodles: smiling sun with pink rays, fluffy cloud with dotted outline, pastel blue and pink raindrops, four-point sparkles, ribbon bow, small heart, butterfly, colored pencil texture, soft pink baby blue butter yellow, each sticker separate with white border, plain white background, Japanese zine scrapbook style, no text --ar 3:2 --profile xythigu --v 8
+
+2-rain-doodles (0e4bebf8-f858-4ab3-8a23-559113965d9a)
+hand-drawn pastel rain doodles, little raindrops and dotted clouds in colored pencil, scattered, plain white background, kawaii zine style, airy, no text --ar 3:2 --profile xythigu --v 8
+
+3-hangtag (865d3cd5-19b3-4475-909d-1b484ac2c261)
+blank pink paper hang tag with a light blue ribbon, hand-drawn kawaii scrapbook style, colored pencil, plain white background, no text --ar 3:2 --profile xythigu --v 8
+
+4-rainy-9x16 (8e495981-1a26-4eda-8758-53123e1e4241) / 4-rainy-16x9 (9b17a723-7baa-4901-84b1-b1526e7462c0)
+rainy-day scrapbook page, translucent glassine paper with white polka dots over a grey-lavender wash, hand-drawn pastel raindrops and clouds, colored pencil, dreamy, empty center, no text --ar 9:16 | --ar 16:9 --profile xythigu --v 8
+
+5-sunny-9x16 (8cd4f6cc-60d7-4f12-b19e-ed22b0339ea7) / 5-sunny-16x9 (357b7796-1273-4f08-a3ea-4c0da3353f96)
+sunny-day scrapbook page, pastel pink and butter yellow wash, hand-drawn sun, sparkles, bows and butterflies in colored pencil, glassine paper with white polka dots, dreamy, empty center, no text --ar 9:16 | --ar 16:9 --profile xythigu --v 8
